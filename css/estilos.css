@@ -7,6 +7,7 @@ body
 
 }
 
+<<<<<<< HEAD
 #container{
 
     border: 9px solid #1C6EA4;
@@ -17,4 +18,10 @@ body
     background-color: cornflowerblue;
     -webkit-box-shadow: 5px 5px 15px 5px #000000; 
     box-shadow: 5px 5px 15px 5px #000000;
+=======
+#container {
+    border-width: thin;
+    border-style: solid;
+    border-color: #000;
+>>>>>>> cabecera
 }
