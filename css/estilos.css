@@ -6,3 +6,9 @@ body
     font-family: "Arial";
 
 }
+
+#container {
+    border-width: thin;
+    border-style: solid;
+    border-color: #000;
+}
