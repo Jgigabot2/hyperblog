@@ -12,12 +12,3 @@ body
     border-style: solid;
     border-color: #000;
 }
-
-footer{
-    height:50px;
-    line-height:50px;
-    top: 50%;
-    bottom:0;
-    width:100%;
-    background-color: blueviolet;
-  }
